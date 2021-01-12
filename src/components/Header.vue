@@ -8,7 +8,7 @@
               <div class="top-bar-info">
                 <ul>
                   <li><i class="fas fa-mobile-alt"></i>
-                  <span style="margin-right:20px">Texas: 281.280.1100</span>
+                  <span style="margin-right:20px">281.280.1100</span>
                   </li>
                   <li><i class="fas fa-envelope"></i>sales@abctree.com</li>
                 </ul>

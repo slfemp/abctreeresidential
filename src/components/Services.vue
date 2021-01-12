@@ -35,9 +35,7 @@
                     <h4>Tree Trimming</h4>
                     <p>
                       Trimming helps a tree maintain its shape, aesthetics,
-                      and health. Removing broken, dead or diseased branches
-                      not only improves the health and appearance of your trees,
-                      it is also safer and may protect your property
+                      and health. It is also safer and may protect your property
                       from future damage from falling branches.
                     </p>
                      <router-link to="/treetrimming" tag="a">learn more</router-link>
@@ -75,9 +73,9 @@
                   <div class="case-block-inner">
                     <h4>Storm Preparation <br> & Cleanup</h4>
                     <p>
-                      Worried about the large branch hanging over your house?
-                      Don't wait until the storm is on the way. Is it too late?
-                      We can also remove fallen trees and branches from your property.
+                      Ia a large branch hanging over your house?
+                      Don't wait until the storm is on the way. <br> Too Late?
+                      We can remove fallen trees and branches from your property.
                     </p>
                       <router-link to="/stromprepandcleanup" tag="a">learn more</router-link>
                   </div>
