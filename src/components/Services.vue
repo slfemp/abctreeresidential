@@ -7,15 +7,14 @@
                      margin-top:50px;
                      margin-bottom:-60px;">
                   <h2 style="color:#007042">SERVICES</h2>
-                          <div
-                class="width-90 xs-width-100 font-size16 xs-display-none
+                 <div class="width-100 text-center xs-width-100 font-size16 xs-display-none
                 line-height-30 xs-font-size14 xs-line-height-26"
-                style="color:#888; padding-top:30px; padding-bottom:30px;"
-              >
+                style="color:#888; text-align:center; padding-top:30px; padding-bottom:30px;"
+              ><p>
                 With over 20 years of experience the professionals at
-                ABC Residential Tree Service can take care of all
+                ABC Residential Tree Service can take care of all<br>
                 your tree care needs. We offer tree removal, tree
-                trimming, tree pruning, stump removal and more.
+                trimming, tree pruning, stump removal and more.</p>
               </div>
                 </div>
 
