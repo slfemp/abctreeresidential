@@ -2,6 +2,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 import Treeremoval from '../views/Treeremoval.vue';
+import About from '../views/About.vue';
 import Landclearing from '../views/Landclearing.vue';
 import Shrubpruning from '../views/Shrubpruning.vue';
 import Treetrimming from '../views/Treetrimming.vue';
@@ -45,6 +46,11 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: Contact,
+  },
+  {
+    path: '/about',
+    name: 'About',
+    component: About,
   },
 ];
 

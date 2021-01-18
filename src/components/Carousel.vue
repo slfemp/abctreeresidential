@@ -12,7 +12,6 @@
             <div class="overflow-hidden width-80 sm-width-85 xs-width-95">
               <h1 class="font-size50 md-font-size42 sm-font-size38 font-weight-800"
             style="color:#fff" >
-                   <img style="width:90px; padding-bottom:20px;" src="img/treeicon.png" />
                    <p>RESIDENTIAL TREE SERVICES</p>
               </h1>
               <div
