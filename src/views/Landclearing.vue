@@ -25,10 +25,10 @@
 
         <div class="col-5">
              <img src="/img/landclearingbefore.jpg" class="img-fluid">
-             <h4>Before</h4>
+             <h6>Before</h6>
 
-             <img src="/img/landclearingbefore.jpg" class="img-fluid">
-             <h4>After</h4>
+             <img src="/img/landclearingafter.jpg" class="img-fluid">
+             <h6>After</h6>
          </div>
 
          <div class="col-7">

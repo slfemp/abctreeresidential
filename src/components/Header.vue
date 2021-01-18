@@ -17,7 +17,7 @@
             <div class="col-xs-12 col-md-3 xs-display-none">
               <ul class="top-social-icon">
                 <li>
-                  <a href="#!"><i class="fab fa-facebook-f"></i></a>
+                  <a href="https://www.facebook.com/abctrees"><i class="fab fa-facebook-f"></i></a>
                 </li>
                 <!--
                   <li>
@@ -25,10 +25,7 @@
                   </li>
                 -->
                 <li>
-                  <a href="https://www.instagram.com/abctree/"><i class="fab fa-instagram"></i></a>
-                </li>
-                <li>
-                  <a href="#!"><i class="fab fa-linkedin-in"></i></a>
+                  <a href="https://www.instagram.com/abctreeservices"><i class="fab fa-instagram"></i></a>
                 </li>
               </ul>
             </div>
