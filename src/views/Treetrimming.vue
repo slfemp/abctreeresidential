@@ -30,6 +30,8 @@
                        <li>Topping</li>
                         <li>Crown Thinning</li>
               </ul>
+
+                <img src="/img/treetrimming1.jpg" class="img-fluid">
          </div>
 
          <div class="col-7">
