@@ -2,7 +2,8 @@
   <div class="container">
 
         <div class="row" style="margin-top:60px; margin-bottom:50px;">
-          <h3>Request a consultation</h3>
+          <h3> Call us at <a style="color:#9fbc2e" href="tel:+2812801100">(281)280-1100</a> <br>
+          or use the form below to request a free consultation</h3>
         </div>
 
  <div class="row" style="margin-bottom:60px;">
@@ -10,7 +11,7 @@
       <div class="col-12">
       <div class="form-group">
         <label for="customername"><b>Full Name</b></label>
-        <input type="text"  class="form-control"
+        <input type="text" style="max-width:600px"  class="form-control"
         id="customername" placeholder="Type in your full name">
       </div>
    </div>
@@ -18,7 +19,8 @@
    <div class="col-12">
       <div class="form-group">
         <label for="customerphone"><b>Phone Number</b></label>
-        <input type="tel" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+        <input type="tel" style="max-width:600px"
+        class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
         id="customerphone" maxlength="15" placeholder="xxx-xxx-xxxx">
       </div>
     </div>
@@ -26,7 +28,7 @@
       <div class="col-12">
       <div class="form-group">
         <label for="customeremail"><b>Email address</b></label>
-        <input type="email" class="form-control"
+        <input type="email" style="max-width:600px" class="form-control"
         id="customeremail" placeholder="name@example.com">
       </div>
       </div>
@@ -35,7 +37,8 @@
 
           <div class="form-group">
             <label for="customerrequest"><b>Tell us more about your request</b></label>
-            <textarea class="form-control" id="customerrequest" rows="6"></textarea>
+            <textarea class="form-control" style="max-width:600px"
+            id="customerrequest" rows="6"></textarea>
           </div>
 
           <div class="form-group">
