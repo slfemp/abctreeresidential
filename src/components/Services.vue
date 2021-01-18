@@ -134,7 +134,7 @@
                     <p>
                       The about us text or maybe we add another service
                     </p>
-                    <router-link to="/about us" tag="a">learn more</router-link>
+                    <router-link to="/about" tag="a">learn more</router-link>
                   </div>
                 </div>
               </div>
