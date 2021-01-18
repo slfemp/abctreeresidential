@@ -12,24 +12,19 @@
             <div class="overflow-hidden width-80 sm-width-85 xs-width-95">
               <h1 class="font-size50 md-font-size42 sm-font-size38 font-weight-800"
             style="color:#fff" >
-              RESIDENTIAL TREE SERVICES
+                   <img style="width:90px; padding-bottom:20px;" src="img/treeicon.png" />
+                   <p>RESIDENTIAL TREE SERVICES</p>
               </h1>
               <div
                 class="text-black line-height-normal font-weight-400 font-size26 md-font-size22
                 sm-font-size margin-20px-bottom no-letter-spacing width-90 xs-width-70"
-                style="color:#fff;"
+                style="color:#888; background:#f5f5f5;   border-radius: 25px; padding:20px;"
               >
-                Call us for all your residential
-                tree needs, we're here to help.
+                Call us at <a style="color:#9fbc2e" href="tel:+2812801100">(281)280-1100</a>
+                or use our <a href="" style="color:#9fbc2e">online form</a>
+                to schedule a free consultation.
               </div>
-              <p
-                class="width-60 xs-width-100 font-size16 xs-display-none
-                line-height-30 xs-font-size14 xs-line-height-26"
-                style="color:#fff"
-              >
-                Tree removal, trimming, and maintenance is a vital
-                 part of caring for your home and property.
-              </p>
+
             <!--  <div class="margin-30px-top sm-margin-25px-top">
                 <a href="/about" class="butn theme"><span>Learn More</span></a>
               </div> -->

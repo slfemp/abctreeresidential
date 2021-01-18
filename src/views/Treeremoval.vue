@@ -4,14 +4,14 @@
       <!-- start page title section -->
       <section
       class="page-title-section2 bg-img cover-background"
-      data-overlay-dark="7" style="background-image: url('/img/treeremoval.jpg')"
+      data-overlay-dark="3" style="background-image: url('/img/treeremovalbanner.jpg')"
        >
           <div class="container">
 
          <div class="row">
                   <div class="col-md-12">
                     <div style="position:relative; top:-50px;">
-                      <h1>Tree Removal</h1>
+                      <h1>TREE REMOVAL</h1>
                     </div>
                   </div>
               </div>
@@ -49,7 +49,29 @@
              even a branch can cause extensive damage to nearby houses, cars,
              or even people.  Dead trees represent a tremendous potential
              liability and should be removed as soon as reasonably possible. </p>
-              </div>
+
+            <h3>Dead Trees</h3>
+            <p></p>
+
+            <h3>Diseased Trees</h3>
+            <p></p>
+
+            <h3>Damaged Trees Trees</h3>
+            <p></p>
+
+            <h3>Storm Preperation</h3>
+            <p></p>
+
+            <h3>New Construction</h3>
+            <p></p>
+
+            <h3>Encroaching Trees</h3>
+            <p></p>
+
+            <h3>Remove Unwanted Branches</h3>
+            <p></p>
+
+          </div>
          </div>
     </div>
 </section>

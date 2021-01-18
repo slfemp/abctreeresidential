@@ -5,6 +5,7 @@ import Treeremoval from '../views/Treeremoval.vue';
 import Landclearing from '../views/Landclearing.vue';
 import Shrubpruning from '../views/Shrubpruning.vue';
 import Treetrimming from '../views/Treetrimming.vue';
+import Contact from '../views/Contact.vue';
 import Stormprepandcleanup from '../views/Stormprepandcleanup.vue';
 
 Vue.use(VueRouter);
@@ -39,6 +40,11 @@ const routes = [
     path: '/landclearing',
     name: 'Landclearing',
     component: Landclearing,
+  },
+  {
+    path: '/contact',
+    name: 'Contact',
+    component: Contact,
   },
 ];
 

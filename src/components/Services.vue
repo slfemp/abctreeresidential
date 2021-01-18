@@ -1,6 +1,24 @@
 <template>
   <div class="services">
     <!-- start blog section -->
+                <div class="blockquote text-center"
+                     style="
+                     background:#fff;
+                     margin-top:50px;
+                     margin-bottom:-60px;">
+                  <h2 style="color:#007042">SERVICES</h2>
+                          <div
+                class="width-90 xs-width-100 font-size16 xs-display-none
+                line-height-30 xs-font-size14 xs-line-height-26"
+                style="color:#888; padding-top:30px; padding-bottom:30px;"
+              >
+                With over 20 years of experience the professionals at
+                ABC Residential Tree Service can take care of all
+                your tree care needs. We offer tree removal, tree
+                trimming, tree pruning, stump removal and more.
+              </div>
+                </div>
+
     <section>
       <div class="container">
         <div class="row">
@@ -10,6 +28,7 @@
                 <div class="col-md-6 col-xs-12">
                   <img src="img/treeremoval.jpg" alt="case" />
                 </div>
+
                 <div class="col-md-6 col-xs-12">
                   <div class="case-block-inner">
                     <h4>Tree Removal</h4>
