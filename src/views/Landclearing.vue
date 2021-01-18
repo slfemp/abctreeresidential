@@ -4,7 +4,7 @@
       <!-- start page title section -->
       <section
       class="page-title-section2 bg-img"
-      data-overlay-dark="3" style="background-image: url('/img/shrubpruningbanner.jpg')"
+      data-overlay-dark="3" style="background-image: url('/img/landclearingbanner.jpg')"
        >
           <div class="container">
 

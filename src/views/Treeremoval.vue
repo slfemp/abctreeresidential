@@ -25,6 +25,7 @@
 
         <div class="col-5">
           <h4>Common Reasons for Tree Removal</h4>
+
              <ul class="list-style-4">
                       <li>Dead Trees</li>
                       <li>Diseased Trees</li>
@@ -34,6 +35,9 @@
                       <li>Encroaching Trees</li>
                       <li>Unwanted Leaves or Pine Needles</li>
               </ul>
+
+               <img src="/img/treeremoval1.jpg" class="img-fluid">
+
          </div>
 
          <div class="col-7">
@@ -49,9 +53,6 @@
              even a branch can cause extensive damage to nearby houses, cars,
              or even people.  Dead trees represent a tremendous potential
              liability and should be removed as soon as reasonably possible. </p>
-
-            <h3>Dead Trees</h3>
-            <p></p>
 
             <h3>Diseased Trees</h3>
             <p></p>
