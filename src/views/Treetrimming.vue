@@ -59,7 +59,7 @@
               large tree. Plants underneath your tree will begin to
               thrive in sunlight, lawns will flourish again.</p>
 
-               <h3>Topping</h3>
+               <h3>Crowning</h3>
                <p>If you have large trees on your property,
                  you may need to begin thinning the crown or
                  canopy of the tree year after year.
