@@ -8,6 +8,7 @@ import Shrubpruning from '../views/Shrubpruning.vue';
 import Treetrimming from '../views/Treetrimming.vue';
 import Contact from '../views/Contact.vue';
 import Stormprepandcleanup from '../views/Stormprepandcleanup.vue';
+import Requestsubmit from '../views/Requestsubmit.vue';
 
 Vue.use(VueRouter);
 
@@ -51,6 +52,11 @@ const routes = [
     path: '/about',
     name: 'About',
     component: About,
+  },
+  {
+    path: '/requestsubmit',
+    name: 'Requestsubmit',
+    component: Requestsubmit,
   },
 ];
 

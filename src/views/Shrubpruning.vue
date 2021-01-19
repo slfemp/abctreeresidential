@@ -24,32 +24,57 @@
         <div class="row">
 
         <div class="col-5">
-          <h4>Common Reasons for Shrub Pruning</h4>
+                   <img src="/img/pruning1.jpg" style="margin-bottom:30px" class="img-fluid">
              <ul class="list-style-4">
                       <li>Beautity your property</li>
-                      <li>Healthier Plants</li>
-                      <li>Fuller Shrubs</li>
-                      <li>Removed Diseases Parts of The Shrud</li>
+                      <li>Healthier plants</li>
+                      <li>Manage growth direction</li>
+                      <li>Removed diseased parts of the shrubs</li>
               </ul>
          </div>
 
          <div class="col-7">
-           <h3>Shrub Pruning promotes tree health.</h3>
-           <p>Pruning is a horticultural and silvicultural practice
-             involving the selective removal of certain parts of a plant,
-             such as branches, buds, or roots. The practice entails
-             targeted removal of diseased, damaged, dead, non-productive,
-             structurally unsound, or otherwise unwanted tissue from crop
-             and landscape plants. In general, the smaller the branch that is cut,
-             the easier it is for a woody plant to compartmentalize the wound
-             and thus limit the potential for pathogen intrusion
-             and decay. It is therefore preferable to make any
-             necessary formative structural pruning cuts to young plants,
-             rather than removing large, poorly placed branches from mature plants.
+           <h5>Shrub Pruning promotes tree health.</h5>
+           <p>Shrub pruning not only makes your shrubs and
+             lawn look great it is a necessary component of
+             proper landscape maintenance. Shrub pruning also
+             improves the health of your shrubs by removing dead
+             organic material. Shrub pruning is also is great for
+             removing unwanted growth so your shrub can dedicate
+             energy growing in the places you want it to.
            </p>
              <p>
               Ensure the growth and long-term health of your
               shrubs with ABC Professional Tree Services.
+            </p>
+
+            <div style="margin-top:70px; margin-bottom:20px;" >
+            <h5>Types of pruning</h5>
+            </div>
+
+             <b>Reduction pruning</b>
+            <p>Reduction pruning removes live branches to reduce
+              of the overall size of the plant.
+            </p>
+
+             <b>Structural pruning</b>
+            <p>Structure pruning of young trees involves removal
+              of live plant parts to improve branching orientation,
+              spacing, or growth rate.
+            </p>
+
+             <b>Restoration pruning</b>
+            <p>Restoration pruning removes live or dead tree parts
+              to restore a tree or shrub to its natural form, growth
+              habit, or vigor. Restoration pruning can be performed
+              to minimize health and structural integrity issues
+              caused by storm damage.
+            </p>
+
+             <b>Root pruning</b>
+            <p>Root pruning is needed when roots
+              grow into sidewalks, foundations or
+              other free-standing structures..
             </p>
 
           </div>

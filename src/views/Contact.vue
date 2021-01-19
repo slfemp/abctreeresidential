@@ -11,7 +11,8 @@
       <div class="col-12">
       <div class="form-group">
         <label for="customername"><b>Full Name</b></label>
-        <input type="text" style="max-width:600px"  class="form-control"
+        <input type="text" style="max-width:600px"
+        v-model="Payload.name" class="form-control"
         id="customername" placeholder="Type in your full name">
       </div>
    </div>
@@ -20,15 +21,27 @@
       <div class="form-group">
         <label for="customerphone"><b>Phone Number</b></label>
         <input type="tel" style="max-width:600px"
-        class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+        class="form-control"
+        v-model="Payload.phone"
+        pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
         id="customerphone" maxlength="15" placeholder="xxx-xxx-xxxx">
       </div>
     </div>
 
+          <div class="col-12">
+      <div class="form-group">
+        <label for="customeraddress"><b>Address</b></label>
+        <input type="email" v-model="Payload.address"
+        style="max-width:600px" class="form-control"
+        id="customeraddress" placeholder="address">
+      </div>
+      </div>
+
       <div class="col-12">
       <div class="form-group">
         <label for="customeremail"><b>Email address</b></label>
-        <input type="email" style="max-width:600px" class="form-control"
+        <input type="email" v-model="Payload.email"
+        style="max-width:600px" class="form-control"
         id="customeremail" placeholder="name@example.com">
       </div>
       </div>
@@ -37,12 +50,12 @@
 
           <div class="form-group">
             <label for="customerrequest"><b>Tell us more about your request</b></label>
-            <textarea class="form-control" style="max-width:600px"
+            <textarea class="form-control" v-model="Payload.message" style="max-width:600px"
             id="customerrequest" rows="6"></textarea>
           </div>
 
           <div class="form-group">
-            <button type="button" class="btn btn-success">Send Request</button>
+            <button type="button" @click="sendemail()" class="btn btn-success">Send Request</button>
           </div>
 
       </div>
@@ -60,9 +73,30 @@
 </template>
 
 <script>
+import HttpService from '../services/httpservice';
+
 export default {
   name: 'Contact',
+  data() {
+    return {
+      Payload: {
+        name: '',
+        address: '',
+        phone: '',
+        email: '',
+        message: '',
+      },
+    };
+  },
   components: {},
+  methods: {
+    sendemail() {
+      const posturl = 'https://prod-14.southcentralus.logic.azure.com:443/workflows/ca96066165e547d5996f014d2640ef3e/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=e0kRv0c3ep5hjJ-SwxoPDAcI16XXrqWAD3eXSta6xCQ';
+      HttpService.postemail(this.Payload, posturl).then(() => {
+      });
+      this.$router.push('Requestsubmit');
+    },
+  },
 };
 </script>
 <style scoped></style>
