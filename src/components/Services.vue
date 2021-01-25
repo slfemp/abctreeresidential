@@ -91,7 +91,7 @@
                   <div class="case-block-inner">
                     <h4>Storm Preparation <br> & Cleanup</h4>
                     <p>
-                      Ia a large branch hanging over your house?
+                      Is a large branch hanging over your house?
                       Don't wait until the storm is on the way. <br> Too Late?
                       We can remove fallen trees and branches from your property.
                     </p>

@@ -13,7 +13,7 @@
 <div class="col-7">
   <h4>Corporate Summary</h4>
 
-          <p>BC Professional Tree Services provides right of way
+          <p>ABC Professional Tree Services provides right of way
             vegetation management and emergency restoration
             services for Investor Owned Electric Utilities,
             Electric Membership Corporations and Municipalities.
