@@ -95,7 +95,7 @@
                       Don't wait until the storm is on the way. <br> Too Late?
                       We can remove fallen trees and branches from your property.
                     </p>
-                      <router-link to="/stromprepandcleanup" tag="a">learn more</router-link>
+                      <router-link to="/stormprepandcleanup" tag="a">learn more</router-link>
                   </div>
                 </div>
               </div>

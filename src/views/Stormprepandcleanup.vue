@@ -31,8 +31,6 @@
                   <img src="/img/storm2.jpg" style="margin-top:30px" class="img-fluid">
                   <b>Remove damaged tree from your property</b>
 
-                  <img src="/img/storm3.jpg" style="margin-top:30px" class="img-fluid">
-                  <b>Storm preparation</b>
               </ul>
          </div>
 

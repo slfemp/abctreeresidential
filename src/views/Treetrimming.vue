@@ -32,6 +32,9 @@
               </ul>
 
                 <img src="/img/treetrimming1.jpg" class="img-fluid">
+
+               <img src="/img/storm3.jpg" style="margin-top:30px" class="img-fluid">
+
          </div>
 
          <div class="col-7">
